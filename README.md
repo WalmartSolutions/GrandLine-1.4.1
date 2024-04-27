@@ -18,6 +18,6 @@ This guy can't make a better auth...
 - [3000IQPlay][1] - Cracking.
 - ??? - Jar.
 
-# GUI (Bind: RCtrl)
+# GUI (Bind: F4)
 
 ![image](https://github.com/WS-External-Cloud/Readme-Assets/blob/main/grandline-gui.png?raw=true)
